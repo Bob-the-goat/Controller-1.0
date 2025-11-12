@@ -1,7 +1,7 @@
 # Controller-1.0
 CONTROLLER but 1.0
 
-##Pathfinder Sexxion 1 - 45 minutes
+##Pathfinder Section 1 - 45 minutes
 
 What I did: I downloaded and set up KiCad.
 
